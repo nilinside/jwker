@@ -1,4 +1,4 @@
-package main
+package jwker
 
 import (
   "crypto/ecdsa"
